@@ -1,0 +1,25 @@
+{
+  "title": "Real",
+  "description": "no",
+  "artist": "no",
+  "author": "no",
+  "cover": "https://cdn.imgchest.com/files/345xce6xzq7.png",
+  "chapters": {
+    "1": {
+      "title": "B",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/md7olqb2d7p/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "2": {
+      "title": "P",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/vj4jqdbm578/"
+  },
+      "last_updated": "1616368746"
+                                 }
+     }
+    }
